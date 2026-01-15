@@ -9,7 +9,9 @@
 
 ## Languages / Technologies
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Bash" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40"/> <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Bash" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40"/> <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux" width="40"/> 
+
+
 
 
 ---
