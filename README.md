@@ -14,9 +14,7 @@
 
 ## Contributions
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bakedPotatoLord&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bakedPotatoLord&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=cozmobaut-hub&theme=radical)
 
 
 
