@@ -24,3 +24,7 @@
 
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white)](mailto:cozmobaut@gmail.com)
 [![Outlook](https://img.shields.io/badge/Email-Outlook-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:austin_haas@mines.edu)
+
+---
+## 🐍 Contribution Snake
+![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
