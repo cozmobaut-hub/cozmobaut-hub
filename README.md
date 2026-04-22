@@ -16,6 +16,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cozmobaut-hub&theme=radical)
 
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cozmobaut-hub&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ---
@@ -25,6 +27,4 @@
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white)](mailto:cozmobaut@gmail.com)
 [![Outlook](https://img.shields.io/badge/Email-Outlook-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:austin_haas@mines.edu)
 
----
-## 🐍 Contribution Snake
-![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
+
